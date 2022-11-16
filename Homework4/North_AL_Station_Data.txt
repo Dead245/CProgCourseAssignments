@@ -1,0 +1,709 @@
+STATION           STATION_NAME                                       DATE     MDPR     DAPR     PRCP     SNWD     SNOW     TMAX     TMIN     AWND     
+----------------- -------------------------------------------------- -------- -------- -------- -------- -------- -------- -------- -------- -------- 
+GHCND:USC00015751                    MUSCLE SHOALS WATER PLANT AL US 20180301 -9999    -9999    1.45     0.0      0.0      68       53       -9999    
+GHCND:USC00015751                    MUSCLE SHOALS WATER PLANT AL US 20180302 -9999    -9999    0.43     0.0      0.0      62       39       -9999    
+GHCND:USC00015751                    MUSCLE SHOALS WATER PLANT AL US 20180303 -9999    -9999    0.01     0.0      0.0      58       35       -9999    
+GHCND:USC00015751                    MUSCLE SHOALS WATER PLANT AL US 20180304 -9999    -9999    0.00     0.0      0.0      62       34       -9999    
+GHCND:USC00015751                    MUSCLE SHOALS WATER PLANT AL US 20180305 -9999    -9999    0.07     0.0      0.0      68       34       -9999    
+GHCND:USC00015751                    MUSCLE SHOALS WATER PLANT AL US 20180306 -9999    -9999    0.15     0.0      0.0      61       49       -9999    
+GHCND:USC00015751                    MUSCLE SHOALS WATER PLANT AL US 20180307 -9999    -9999    0.00     0.0      0.0      65       35       -9999    
+GHCND:USC00015751                    MUSCLE SHOALS WATER PLANT AL US 20180308 -9999    -9999    0.00     0.0      0.0      46       29       -9999    
+GHCND:USC00015751                    MUSCLE SHOALS WATER PLANT AL US 20180309 -9999    -9999    0.00     0.0      0.0      48       27       -9999    
+GHCND:USC00015751                    MUSCLE SHOALS WATER PLANT AL US 20180310 -9999    -9999    0.00     0.0      0.0      63       28       -9999    
+GHCND:USC00015751                    MUSCLE SHOALS WATER PLANT AL US 20180311 -9999    -9999    1.03     0.0      0.0      63       -9999    -9999    
+GHCND:USC00015751                    MUSCLE SHOALS WATER PLANT AL US 20180312 -9999    -9999    0.08     0.0      0.0      59       35       -9999    
+GHCND:USC00015751                    MUSCLE SHOALS WATER PLANT AL US 20180313 -9999    -9999    0.00     0.0      0.0      54       31       -9999    
+GHCND:USC00015751                    MUSCLE SHOALS WATER PLANT AL US 20180314 -9999    -9999    0.00     0.0      0.0      55       29       -9999    
+GHCND:USC00015751                    MUSCLE SHOALS WATER PLANT AL US 20180315 -9999    -9999    0.00     0.0      0.0      52       29       -9999    
+GHCND:USC00015751                    MUSCLE SHOALS WATER PLANT AL US 20180316 -9999    -9999    0.00     0.0      0.0      69       29       -9999    
+GHCND:USC00015751                    MUSCLE SHOALS WATER PLANT AL US 20180317 -9999    -9999    0.00     0.0      0.0      68       42       -9999    
+GHCND:USC00015751                    MUSCLE SHOALS WATER PLANT AL US 20180318 -9999    -9999    0.00     0.0      0.0      79       47       -9999    
+GHCND:USC00015751                    MUSCLE SHOALS WATER PLANT AL US 20180319 -9999    -9999    0.02     0.0      0.0      61       47       -9999    
+GHCND:USC00015751                    MUSCLE SHOALS WATER PLANT AL US 20180320 -9999    -9999    0.26     0.0      0.0      68       46       -9999    
+GHCND:USC00015751                    MUSCLE SHOALS WATER PLANT AL US 20180322 -9999    -9999    0.00     0.0      0.0      53       30       -9999    
+GHCND:USC00015751                    MUSCLE SHOALS WATER PLANT AL US 20180323 -9999    -9999    0.01     0.0      0.0      60       31       -9999    
+GHCND:USC00015751                    MUSCLE SHOALS WATER PLANT AL US 20180324 -9999    -9999    0.00     0.0      0.0      60       43       -9999    
+GHCND:USC00015751                    MUSCLE SHOALS WATER PLANT AL US 20180325 -9999    -9999    0.49     0.0      0.0      67       54       -9999    
+GHCND:USC00015751                    MUSCLE SHOALS WATER PLANT AL US 20180326 -9999    -9999    0.01     0.0      0.0      63       48       -9999    
+GHCND:USC00015751                    MUSCLE SHOALS WATER PLANT AL US 20180327 -9999    -9999    0.00     0.0      0.0      56       49       -9999    
+GHCND:USC00015751                    MUSCLE SHOALS WATER PLANT AL US 20180328 -9999    -9999    0.00     0.0      0.0      72       48       -9999    
+GHCND:USC00015751                    MUSCLE SHOALS WATER PLANT AL US 20180329 -9999    -9999    1.24     0.0      0.0      75       58       -9999    
+GHCND:USC00015751                    MUSCLE SHOALS WATER PLANT AL US 20180330 -9999    -9999    0.43     0.0      0.0      62       50       -9999    
+GHCND:USC00015751                    MUSCLE SHOALS WATER PLANT AL US 20180331 -9999    -9999    0.02     0.0      0.0      62       36       -9999    
+GHCND:US1ALLS0023                                ATHENS 1.5 SE AL US 20180301 -9999    -9999    2.23     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALLS0023                                ATHENS 1.5 SE AL US 20180302 -9999    -9999    0.17     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALLS0023                                ATHENS 1.5 SE AL US 20180303 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0023                                ATHENS 1.5 SE AL US 20180304 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0023                                ATHENS 1.5 SE AL US 20180305 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0023                                ATHENS 1.5 SE AL US 20180306 -9999    -9999    0.05     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALLS0023                                ATHENS 1.5 SE AL US 20180307 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0023                                ATHENS 1.5 SE AL US 20180308 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0023                                ATHENS 1.5 SE AL US 20180309 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0023                                ATHENS 1.5 SE AL US 20180310 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0023                                ATHENS 1.5 SE AL US 20180311 -9999    -9999    0.70     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALLS0023                                ATHENS 1.5 SE AL US 20180312 -9999    -9999    0.16     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALLS0023                                ATHENS 1.5 SE AL US 20180313 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0023                                ATHENS 1.5 SE AL US 20180314 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0023                                ATHENS 1.5 SE AL US 20180315 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0023                                ATHENS 1.5 SE AL US 20180316 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0023                                ATHENS 1.5 SE AL US 20180317 -9999    -9999    0.04     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALLS0023                                ATHENS 1.5 SE AL US 20180318 -9999    -9999    0.01     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0023                                ATHENS 1.5 SE AL US 20180319 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0023                                ATHENS 1.5 SE AL US 20180320 -9999    -9999    0.40     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALLS0023                                ATHENS 1.5 SE AL US 20180321 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0023                                ATHENS 1.5 SE AL US 20180322 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0023                                ATHENS 1.5 SE AL US 20180323 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0023                                ATHENS 1.5 SE AL US 20180324 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0023                                ATHENS 1.5 SE AL US 20180325 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0023                                ATHENS 1.5 SE AL US 20180326 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0023                                ATHENS 1.5 SE AL US 20180327 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0023                                ATHENS 1.5 SE AL US 20180328 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0023                                ATHENS 1.5 SE AL US 20180329 -9999    -9999    0.40     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALLS0023                                ATHENS 1.5 SE AL US 20180330 -9999    -9999    0.89     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALLS0023                                ATHENS 1.5 SE AL US 20180331 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:USW00013896               MUSCLE SHOALS REGIONAL AIRPORT AL US 20180301 -9999    -9999    0.54     0.0      0.0      64       50       9.6      
+GHCND:USW00013896               MUSCLE SHOALS REGIONAL AIRPORT AL US 20180302 -9999    -9999    0.00     0.0      0.0      59       42       7.4      
+GHCND:USW00013896               MUSCLE SHOALS REGIONAL AIRPORT AL US 20180303 -9999    -9999    0.00     0.0      0.0      62       38       6.7      
+GHCND:USW00013896               MUSCLE SHOALS REGIONAL AIRPORT AL US 20180304 -9999    -9999    0.00     0.0      0.0      68       37       3.4      
+GHCND:USW00013896               MUSCLE SHOALS REGIONAL AIRPORT AL US 20180305 -9999    -9999    0.16     0.0      0.0      62       50       6.0      
+GHCND:USW00013896               MUSCLE SHOALS REGIONAL AIRPORT AL US 20180306 -9999    -9999    0.00     0.0      0.0      66       47       13.0     
+GHCND:USW00013896               MUSCLE SHOALS REGIONAL AIRPORT AL US 20180307 -9999    -9999    0.00     0.0      0.0      48       32       9.6      
+GHCND:USW00013896               MUSCLE SHOALS REGIONAL AIRPORT AL US 20180308 -9999    -9999    0.00     0.0      0.0      50       30       8.3      
+GHCND:USW00013896               MUSCLE SHOALS REGIONAL AIRPORT AL US 20180309 -9999    -9999    0.00     0.0      0.0      65       27       7.2      
+GHCND:USW00013896               MUSCLE SHOALS REGIONAL AIRPORT AL US 20180310 -9999    -9999    0.81     0.0      0.0      63       47       5.1      
+GHCND:USW00013896               MUSCLE SHOALS REGIONAL AIRPORT AL US 20180311 -9999    -9999    0.30     0.0      0.0      60       39       8.1      
+GHCND:USW00013896               MUSCLE SHOALS REGIONAL AIRPORT AL US 20180312 -9999    -9999    0.00     0.0      0.0      54       36       12.3     
+GHCND:USW00013896               MUSCLE SHOALS REGIONAL AIRPORT AL US 20180313 -9999    -9999    0.00     0.0      0.0      56       32       9.2      
+GHCND:USW00013896               MUSCLE SHOALS REGIONAL AIRPORT AL US 20180314 -9999    -9999    0.00     0.0      0.0      53       33       6.5      
+GHCND:USW00013896               MUSCLE SHOALS REGIONAL AIRPORT AL US 20180315 -9999    -9999    0.00     0.0      0.0      71       32       7.2      
+GHCND:USW00013896               MUSCLE SHOALS REGIONAL AIRPORT AL US 20180316 -9999    -9999    0.00     0.0      0.0      69       43       6.3      
+GHCND:USW00013896               MUSCLE SHOALS REGIONAL AIRPORT AL US 20180317 -9999    -9999    0.01     0.0      0.0      81       60       11.2     
+GHCND:USW00013896               MUSCLE SHOALS REGIONAL AIRPORT AL US 20180318 -9999    -9999    0.01     0.0      0.0      62       48       4.9      
+GHCND:USW00013896               MUSCLE SHOALS REGIONAL AIRPORT AL US 20180319 -9999    -9999    1.04     0.0      0.0      68       53       5.1      
+GHCND:USW00013896               MUSCLE SHOALS REGIONAL AIRPORT AL US 20180320 -9999    -9999    0.00     0.0      0.0      55       37       12.3     
+GHCND:USW00013896               MUSCLE SHOALS REGIONAL AIRPORT AL US 20180321 -9999    -9999    0.00     0.0      0.0      53       34       11.2     
+GHCND:USW00013896               MUSCLE SHOALS REGIONAL AIRPORT AL US 20180322 -9999    -9999    0.00     0.0      0.0      61       31       3.8      
+GHCND:USW00013896               MUSCLE SHOALS REGIONAL AIRPORT AL US 20180323 -9999    -9999    0.00     0.0      0.0      61       40       4.3      
+GHCND:USW00013896               MUSCLE SHOALS REGIONAL AIRPORT AL US 20180324 -9999    -9999    0.01     0.0      0.0      68       49       11.4     
+GHCND:USW00013896               MUSCLE SHOALS REGIONAL AIRPORT AL US 20180325 -9999    -9999    0.33     0.0      0.0      66       51       6.9      
+GHCND:USW00013896               MUSCLE SHOALS REGIONAL AIRPORT AL US 20180326 -9999    -9999    0.00     0.0      0.0      57       51       14.1     
+GHCND:USW00013896               MUSCLE SHOALS REGIONAL AIRPORT AL US 20180327 -9999    -9999    0.00     0.0      0.0      73       50       12.5     
+GHCND:USW00013896               MUSCLE SHOALS REGIONAL AIRPORT AL US 20180328 -9999    -9999    0.57     0.0      0.0      74       61       9.2      
+GHCND:USW00013896               MUSCLE SHOALS REGIONAL AIRPORT AL US 20180329 -9999    -9999    0.79     0.0      0.0      62       53       8.3      
+GHCND:USW00013896               MUSCLE SHOALS REGIONAL AIRPORT AL US 20180330 -9999    -9999    0.00     0.0      0.0      63       42       6.9      
+GHCND:USW00013896               MUSCLE SHOALS REGIONAL AIRPORT AL US 20180331 -9999    -9999    0.00     0.0      0.0      72       38       5.4      
+GHCND:USW00003856 HUNTSVILLE INTERNATIONAL AIRPORT JONES FIELD AL US 20180301 -9999    -9999    0.36     0.0      0.0      67       48       8.9      
+GHCND:USW00003856 HUNTSVILLE INTERNATIONAL AIRPORT JONES FIELD AL US 20180302 -9999    -9999    0.00     0.0      0.0      58       40       10.3     
+GHCND:USW00003856 HUNTSVILLE INTERNATIONAL AIRPORT JONES FIELD AL US 20180303 -9999    -9999    0.00     0.0      0.0      63       34       8.1      
+GHCND:USW00003856 HUNTSVILLE INTERNATIONAL AIRPORT JONES FIELD AL US 20180304 -9999    -9999    0.00     0.0      0.0      71       33       3.6      
+GHCND:USW00003856 HUNTSVILLE INTERNATIONAL AIRPORT JONES FIELD AL US 20180305 -9999    -9999    0.11     0.0      0.0      59       48       6.9      
+GHCND:USW00003856 HUNTSVILLE INTERNATIONAL AIRPORT JONES FIELD AL US 20180306 -9999    -9999    0.06     0.0      0.0      66       48       11.4     
+GHCND:USW00003856 HUNTSVILLE INTERNATIONAL AIRPORT JONES FIELD AL US 20180307 -9999    -9999    0.00     0.0      0.0      48       32       11.0     
+GHCND:USW00003856 HUNTSVILLE INTERNATIONAL AIRPORT JONES FIELD AL US 20180308 -9999    -9999    0.00     0.0      0.0      48       30       7.6      
+GHCND:USW00003856 HUNTSVILLE INTERNATIONAL AIRPORT JONES FIELD AL US 20180309 -9999    -9999    0.00     0.0      0.0      63       26       6.0      
+GHCND:USW00003856 HUNTSVILLE INTERNATIONAL AIRPORT JONES FIELD AL US 20180310 -9999    -9999    1.18     0.0      0.0      58       50       6.7      
+GHCND:USW00003856 HUNTSVILLE INTERNATIONAL AIRPORT JONES FIELD AL US 20180311 -9999    -9999    0.20     0.0      0.0      60       40       8.7      
+GHCND:USW00003856 HUNTSVILLE INTERNATIONAL AIRPORT JONES FIELD AL US 20180312 -9999    -9999    0.00     0.0      0.0      53       37       14.1     
+GHCND:USW00003856 HUNTSVILLE INTERNATIONAL AIRPORT JONES FIELD AL US 20180313 -9999    -9999    0.00     0.0      0.0      56       30       9.2      
+GHCND:USW00003856 HUNTSVILLE INTERNATIONAL AIRPORT JONES FIELD AL US 20180314 -9999    -9999    0.00     0.0      0.0      51       30       6.3      
+GHCND:USW00003856 HUNTSVILLE INTERNATIONAL AIRPORT JONES FIELD AL US 20180315 -9999    -9999    0.00     0.0      0.0      69       30       7.2      
+GHCND:USW00003856 HUNTSVILLE INTERNATIONAL AIRPORT JONES FIELD AL US 20180316 -9999    -9999    0.00     0.0      0.0      69       44       6.7      
+GHCND:USW00003856 HUNTSVILLE INTERNATIONAL AIRPORT JONES FIELD AL US 20180317 -9999    -9999    0.07     0.0      0.0      79       58       10.3     
+GHCND:USW00003856 HUNTSVILLE INTERNATIONAL AIRPORT JONES FIELD AL US 20180318 -9999    -9999    0.18     0.0      0.0      65       48       5.8      
+GHCND:USW00003856 HUNTSVILLE INTERNATIONAL AIRPORT JONES FIELD AL US 20180319 -9999    -9999    0.17     0.0      0.0      71       53       6.7      
+GHCND:USW00003856 HUNTSVILLE INTERNATIONAL AIRPORT JONES FIELD AL US 20180320 -9999    -9999    0.00     0.0      0.0      55       39       10.7     
+GHCND:USW00003856 HUNTSVILLE INTERNATIONAL AIRPORT JONES FIELD AL US 20180321 -9999    -9999    0.00     0.0      0.0      54       34       11.4     
+GHCND:USW00003856 HUNTSVILLE INTERNATIONAL AIRPORT JONES FIELD AL US 20180322 -9999    -9999    0.00     0.0      0.0      60       31       5.6      
+GHCND:USW00003856 HUNTSVILLE INTERNATIONAL AIRPORT JONES FIELD AL US 20180323 -9999    -9999    0.01     0.0      0.0      63       38       4.9      
+GHCND:USW00003856 HUNTSVILLE INTERNATIONAL AIRPORT JONES FIELD AL US 20180324 -9999    -9999    0.01     0.0      0.0      70       50       10.5     
+GHCND:USW00003856 HUNTSVILLE INTERNATIONAL AIRPORT JONES FIELD AL US 20180325 -9999    -9999    0.11     0.0      0.0      69       53       8.1      
+GHCND:USW00003856 HUNTSVILLE INTERNATIONAL AIRPORT JONES FIELD AL US 20180326 -9999    -9999    0.00     0.0      0.0      56       51       17.9     
+GHCND:USW00003856 HUNTSVILLE INTERNATIONAL AIRPORT JONES FIELD AL US 20180327 -9999    -9999    0.00     0.0      0.0      65       49       12.8     
+GHCND:USW00003856 HUNTSVILLE INTERNATIONAL AIRPORT JONES FIELD AL US 20180328 -9999    -9999    0.00     0.0      0.0      72       57       9.6      
+GHCND:USW00003856 HUNTSVILLE INTERNATIONAL AIRPORT JONES FIELD AL US 20180329 -9999    -9999    0.85     0.0      0.0      70       55       7.4      
+GHCND:USW00003856 HUNTSVILLE INTERNATIONAL AIRPORT JONES FIELD AL US 20180330 -9999    -9999    0.00     0.0      0.0      62       42       8.3      
+GHCND:USW00003856 HUNTSVILLE INTERNATIONAL AIRPORT JONES FIELD AL US 20180331 -9999    -9999    0.00     0.0      0.0      69       37       5.8      
+GHCND:US1ALLS0010                               ATHENS 4.9 NNW AL US 20180301 -9999    -9999    1.08     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALLS0010                               ATHENS 4.9 NNW AL US 20180302 -9999    -9999    0.19     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALLS0010                               ATHENS 4.9 NNW AL US 20180303 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0010                               ATHENS 4.9 NNW AL US 20180304 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0010                               ATHENS 4.9 NNW AL US 20180305 -9999    -9999    0.00     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALLS0010                               ATHENS 4.9 NNW AL US 20180306 -9999    -9999    0.07     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALLS0010                               ATHENS 4.9 NNW AL US 20180307 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0010                               ATHENS 4.9 NNW AL US 20180308 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0010                               ATHENS 4.9 NNW AL US 20180309 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0010                               ATHENS 4.9 NNW AL US 20180311 -9999    -9999    0.54     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALLS0010                               ATHENS 4.9 NNW AL US 20180312 -9999    -9999    0.12     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALLS0010                               ATHENS 4.9 NNW AL US 20180313 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0010                               ATHENS 4.9 NNW AL US 20180314 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0010                               ATHENS 4.9 NNW AL US 20180315 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0010                               ATHENS 4.9 NNW AL US 20180316 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0010                               ATHENS 4.9 NNW AL US 20180317 -9999    -9999    0.33     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALLS0010                               ATHENS 4.9 NNW AL US 20180318 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0010                               ATHENS 4.9 NNW AL US 20180319 -9999    -9999    0.12     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALLS0010                               ATHENS 4.9 NNW AL US 20180320 -9999    -9999    0.95     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALLS0010                               ATHENS 4.9 NNW AL US 20180321 -9999    -9999    0.00     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALLS0010                               ATHENS 4.9 NNW AL US 20180322 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0010                               ATHENS 4.9 NNW AL US 20180323 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0010                               ATHENS 4.9 NNW AL US 20180324 -9999    -9999    0.03     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALLS0010                               ATHENS 4.9 NNW AL US 20180325 -9999    -9999    0.19     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALLS0010                               ATHENS 4.9 NNW AL US 20180326 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0010                               ATHENS 4.9 NNW AL US 20180327 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0087                           HUNTSVILLE 7.0 SSE AL US 20180301 -9999    -9999    1.49     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0087                           HUNTSVILLE 7.0 SSE AL US 20180302 -9999    -9999    0.21     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0087                           HUNTSVILLE 7.0 SSE AL US 20180303 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0087                           HUNTSVILLE 7.0 SSE AL US 20180304 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0087                           HUNTSVILLE 7.0 SSE AL US 20180305 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0087                           HUNTSVILLE 7.0 SSE AL US 20180306 -9999    -9999    0.13     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0087                           HUNTSVILLE 7.0 SSE AL US 20180307 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0087                           HUNTSVILLE 7.0 SSE AL US 20180311 -9999    -9999    -9999    -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0087                           HUNTSVILLE 7.0 SSE AL US 20180312 -9999    -9999    0.14     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0087                           HUNTSVILLE 7.0 SSE AL US 20180313 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0087                           HUNTSVILLE 7.0 SSE AL US 20180314 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0087                           HUNTSVILLE 7.0 SSE AL US 20180315 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0087                           HUNTSVILLE 7.0 SSE AL US 20180316 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0087                           HUNTSVILLE 7.0 SSE AL US 20180317 -9999    -9999    0.12     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0087                           HUNTSVILLE 7.0 SSE AL US 20180318 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0087                           HUNTSVILLE 7.0 SSE AL US 20180319 -9999    -9999    0.13     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0087                           HUNTSVILLE 7.0 SSE AL US 20180320 -9999    -9999    0.33     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0087                           HUNTSVILLE 7.0 SSE AL US 20180329 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0087                           HUNTSVILLE 7.0 SSE AL US 20180330 -9999    -9999    0.76     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0087                           HUNTSVILLE 7.0 SSE AL US 20180331 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0003                                 ATHENS 4.3 W AL US 20180301 -9999    -9999    2.03     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALLS0003                                 ATHENS 4.3 W AL US 20180302 -9999    -9999    0.27     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALLS0003                                 ATHENS 4.3 W AL US 20180303 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0003                                 ATHENS 4.3 W AL US 20180304 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0003                                 ATHENS 4.3 W AL US 20180305 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0003                                 ATHENS 4.3 W AL US 20180306 -9999    -9999    0.10     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALLS0003                                 ATHENS 4.3 W AL US 20180307 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0003                                 ATHENS 4.3 W AL US 20180308 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0003                                 ATHENS 4.3 W AL US 20180309 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0003                                 ATHENS 4.3 W AL US 20180310 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0003                                 ATHENS 4.3 W AL US 20180311 -9999    -9999    0.87     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALLS0003                                 ATHENS 4.3 W AL US 20180312 -9999    -9999    0.12     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALLS0003                                 ATHENS 4.3 W AL US 20180313 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0003                                 ATHENS 4.3 W AL US 20180314 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0003                                 ATHENS 4.3 W AL US 20180315 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0003                                 ATHENS 4.3 W AL US 20180316 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0003                                 ATHENS 4.3 W AL US 20180317 -9999    -9999    0.03     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALLS0003                                 ATHENS 4.3 W AL US 20180326 -9999    -9999    0.01     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALLS0003                                 ATHENS 4.3 W AL US 20180327 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0003                                 ATHENS 4.3 W AL US 20180328 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0003                                 ATHENS 4.3 W AL US 20180329 -9999    -9999    0.54     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALLS0003                                 ATHENS 4.3 W AL US 20180330 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALLS0003                                 ATHENS 4.3 W AL US 20180331 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:USC00012209                                 DECATUR 4 SE AL US 20180301 -9999    -9999    1.52     0.0      0.0      68       52       -9999    
+GHCND:USC00012209                                 DECATUR 4 SE AL US 20180302 -9999    -9999    0.20     0.0      0.0      68       42       -9999    
+GHCND:USC00012209                                 DECATUR 4 SE AL US 20180303 -9999    -9999    0.00     0.0      0.0      68       39       -9999    
+GHCND:USC00012209                                 DECATUR 4 SE AL US 20180304 -9999    -9999    0.00     0.0      0.0      61       38       -9999    
+GHCND:USC00012209                                 DECATUR 4 SE AL US 20180305 -9999    -9999    0.25     0.0      0.0      65       38       -9999    
+GHCND:USC00012209                                 DECATUR 4 SE AL US 20180306 -9999    -9999    0.25     0.0      0.0      66       39       -9999    
+GHCND:USC00012209                                 DECATUR 4 SE AL US 20180307 -9999    -9999    0.00     0.0      0.0      67       37       -9999    
+GHCND:USC00012209                                 DECATUR 4 SE AL US 20180308 -9999    -9999    0.00     0.0      0.0      43       32       -9999    
+GHCND:USC00012209                                 DECATUR 4 SE AL US 20180309 -9999    -9999    0.00     0.0      0.0      63       30       -9999    
+GHCND:USC00012209                                 DECATUR 4 SE AL US 20180310 -9999    -9999    0.00     0.0      0.0      65       32       -9999    
+GHCND:USC00012209                                 DECATUR 4 SE AL US 20180311 -9999    -9999    0.00     0.0      0.0      62       35       -9999    
+GHCND:USC00012209                                 DECATUR 4 SE AL US 20180312 -9999    -9999    0.00     0.0      0.0      65       37       -9999    
+GHCND:USC00012209                                 DECATUR 4 SE AL US 20180313 -9999    -9999    0.00     0.0      0.0      64       39       -9999    
+GHCND:USC00012209                                 DECATUR 4 SE AL US 20180314 -9999    -9999    0.00     0.0      0.0      67       41       -9999    
+GHCND:USC00012209                                 DECATUR 4 SE AL US 20180315 -9999    -9999    0.00     0.0      0.0      68       43       -9999    
+GHCND:USC00012209                                 DECATUR 4 SE AL US 20180316 -9999    -9999    0.00     0.0      0.0      67       44       -9999    
+GHCND:USC00012209                                 DECATUR 4 SE AL US 20180317 -9999    -9999    0.25     0.0      0.0      70       52       -9999    
+GHCND:USC00012209                                 DECATUR 4 SE AL US 20180318 -9999    -9999    0.00     0.0      0.0      79       48       -9999    
+GHCND:USC00012209                                 DECATUR 4 SE AL US 20180319 -9999    -9999    0.10     0.0      0.0      79       48       -9999    
+GHCND:USC00012209                                 DECATUR 4 SE AL US 20180320 -9999    -9999    0.40     0.0      0.0      71       51       -9999    
+GHCND:USC00012209                                 DECATUR 4 SE AL US 20180321 -9999    -9999    0.00     0.0      0.0      54       34       -9999    
+GHCND:USC00012209                                 DECATUR 4 SE AL US 20180322 -9999    -9999    0.00     0.0      0.0      54       33       -9999    
+GHCND:USC00012209                                 DECATUR 4 SE AL US 20180323 -9999    -9999    0.00     0.0      0.0      64       40       -9999    
+GHCND:USC00012209                                 DECATUR 4 SE AL US 20180324 -9999    -9999    0.00     0.0      0.0      67       42       -9999    
+GHCND:USC00012209                                 DECATUR 4 SE AL US 20180325 -9999    -9999    0.27     0.0      0.0      70       41       -9999    
+GHCND:USC00012209                                 DECATUR 4 SE AL US 20180326 -9999    -9999    0.00     0.0      0.0      71       43       -9999    
+GHCND:USC00012209                                 DECATUR 4 SE AL US 20180327 -9999    -9999    0.00     0.0      0.0      71       45       -9999    
+GHCND:USC00012209                                 DECATUR 4 SE AL US 20180328 -9999    -9999    0.00     0.0      0.0      71       46       -9999    
+GHCND:USC00012209                                 DECATUR 4 SE AL US 20180329 -9999    -9999    0.08     0.0      0.0      71       41       -9999    
+GHCND:USC00012209                                 DECATUR 4 SE AL US 20180330 -9999    -9999    1.00     0.0      0.0      64       50       -9999    
+GHCND:USC00012209                                 DECATUR 4 SE AL US 20180331 -9999    -9999    0.00     0.0      0.0      64       37       -9999    
+GHCND:USC00010390                                       ATHENS AL US 20180301 -9999    -9999    0.43     0.0      0.0      65       49       -9999    
+GHCND:USC00010390                                       ATHENS AL US 20180302 -9999    -9999    0.00     0.0      0.0      65       39       -9999    
+GHCND:USC00010390                                       ATHENS AL US 20180303 -9999    -9999    0.00     0.0      0.0      64       33       -9999    
+GHCND:USC00010390                                       ATHENS AL US 20180304 -9999    -9999    0.00     0.0      0.0      71       37       -9999    
+GHCND:USC00010390                                       ATHENS AL US 20180305 -9999    -9999    0.05     0.0      0.0      59       47       -9999    
+GHCND:USC00010390                                       ATHENS AL US 20180306 -9999    -9999    0.00     0.0      0.0      67       47       -9999    
+GHCND:USC00010390                                       ATHENS AL US 20180307 -9999    -9999    0.00     0.0      0.0      47       34       -9999    
+GHCND:USC00010390                                       ATHENS AL US 20180308 -9999    -9999    0.00     0.0      0.0      51       32       -9999    
+GHCND:USC00010390                                       ATHENS AL US 20180309 -9999    -9999    0.00     0.0      0.0      63       29       -9999    
+GHCND:USC00010390                                       ATHENS AL US 20180310 -9999    -9999    0.62     0.0      0.0      59       49       -9999    
+GHCND:USC00010390                                       ATHENS AL US 20180311 -9999    -9999    0.41     0.0      0.0      60       42       -9999    
+GHCND:USC00010390                                       ATHENS AL US 20180312 -9999    -9999    0.00     0.0      0.0      57       38       -9999    
+GHCND:USC00010390                                       ATHENS AL US 20180313 -9999    -9999    0.00     0.0      0.0      59       32       -9999    
+GHCND:USC00010390                                       ATHENS AL US 20180314 -9999    -9999    0.00     0.0      0.0      53       32       -9999    
+GHCND:USC00010390                                       ATHENS AL US 20180315 -9999    -9999    0.00     0.0      0.0      69       33       -9999    
+GHCND:USC00010390                                       ATHENS AL US 20180316 -9999    -9999    0.00     0.0      0.0      69       43       -9999    
+GHCND:USC00010390                                       ATHENS AL US 20180317 -9999    -9999    0.05     0.0      0.0      79       59       -9999    
+GHCND:USC00010390                                       ATHENS AL US 20180318 -9999    -9999    0.04     0.0      0.0      63       48       -9999    
+GHCND:USC00010390                                       ATHENS AL US 20180319 -9999    -9999    0.35     0.0      0.0      69       52       -9999    
+GHCND:USC00010390                                       ATHENS AL US 20180320 -9999    -9999    0.00     0.0      0.0      55       40       -9999    
+GHCND:USC00010390                                       ATHENS AL US 20180321 -9999    -9999    0.00     0.0      0.0      57       31       -9999    
+GHCND:USC00010390                                       ATHENS AL US 20180322 -9999    -9999    0.00     0.0      0.0      63       33       -9999    
+GHCND:USC00010390                                       ATHENS AL US 20180323 -9999    -9999    0.00     0.0      0.0      62       40       -9999    
+GHCND:USC00010390                                       ATHENS AL US 20180324 -9999    -9999    0.00     0.0      0.0      68       54       -9999    
+GHCND:USC00010390                                       ATHENS AL US 20180325 -9999    -9999    0.04     0.0      0.0      70       54       -9999    
+GHCND:USC00010390                                       ATHENS AL US 20180326 -9999    -9999    0.00     0.0      0.0      56       51       -9999    
+GHCND:USC00010390                                       ATHENS AL US 20180327 -9999    -9999    0.00     0.0      0.0      67       48       -9999    
+GHCND:USC00010390                                       ATHENS AL US 20180328 -9999    -9999    0.00     0.0      0.0      71       59       -9999    
+GHCND:USC00010390                                       ATHENS AL US 20180329 -9999    -9999    1.18     0.0      0.0      69       57       -9999    
+GHCND:USC00010390                                       ATHENS AL US 20180330 -9999    -9999    0.00     0.0      0.0      69       45       -9999    
+GHCND:USC00010390                                       ATHENS AL US 20180331 -9999    -9999    0.00     0.0      0.0      71       38       -9999    
+GHCND:US1ALCM0006                               CULLMAN 7.5 SW AL US 20180301 -9999    -9999    0.07     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCM0006                               CULLMAN 7.5 SW AL US 20180302 -9999    -9999    0.83     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCM0006                               CULLMAN 7.5 SW AL US 20180303 -9999    -9999    0.01     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCM0006                               CULLMAN 7.5 SW AL US 20180304 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALCM0006                               CULLMAN 7.5 SW AL US 20180305 -9999    -9999    0.03     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCM0006                               CULLMAN 7.5 SW AL US 20180306 -9999    -9999    0.43     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCM0006                               CULLMAN 7.5 SW AL US 20180307 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALCM0006                               CULLMAN 7.5 SW AL US 20180308 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALCM0006                               CULLMAN 7.5 SW AL US 20180309 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALCM0006                               CULLMAN 7.5 SW AL US 20180310 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALCM0006                               CULLMAN 7.5 SW AL US 20180311 -9999    -9999    1.68     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCM0006                               CULLMAN 7.5 SW AL US 20180312 -9999    -9999    0.11     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCM0006                               CULLMAN 7.5 SW AL US 20180313 -9999    -9999    0.02     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCM0006                               CULLMAN 7.5 SW AL US 20180314 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALCM0006                               CULLMAN 7.5 SW AL US 20180315 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALCM0006                               CULLMAN 7.5 SW AL US 20180316 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALCM0006                               CULLMAN 7.5 SW AL US 20180317 -9999    -9999    0.02     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCM0006                               CULLMAN 7.5 SW AL US 20180318 -9999    -9999    0.11     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCM0006                               CULLMAN 7.5 SW AL US 20180319 -9999    -9999    0.05     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCM0006                               CULLMAN 7.5 SW AL US 20180320 -9999    -9999    0.80     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCM0006                               CULLMAN 7.5 SW AL US 20180321 -9999    -9999    0.06     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCM0006                               CULLMAN 7.5 SW AL US 20180322 -9999    -9999    0.02     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCM0006                               CULLMAN 7.5 SW AL US 20180323 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALCM0006                               CULLMAN 7.5 SW AL US 20180324 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALCM0006                               CULLMAN 7.5 SW AL US 20180325 -9999    -9999    0.03     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCM0006                               CULLMAN 7.5 SW AL US 20180326 -9999    -9999    0.02     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCM0006                               CULLMAN 7.5 SW AL US 20180327 -9999    -9999    0.01     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCM0006                               CULLMAN 7.5 SW AL US 20180328 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALCM0006                               CULLMAN 7.5 SW AL US 20180329 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALCM0006                               CULLMAN 7.5 SW AL US 20180330 -9999    -9999    0.90     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCM0006                               CULLMAN 7.5 SW AL US 20180331 -9999    -9999    0.03     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCM0003                                CULLMAN 4.4 E AL US 20180301 -9999    -9999    0.61     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCM0003                                CULLMAN 4.4 E AL US 20180302 -9999    -9999    0.26     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCM0003                                CULLMAN 4.4 E AL US 20180303 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALCM0003                                CULLMAN 4.4 E AL US 20180304 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALCM0003                                CULLMAN 4.4 E AL US 20180305 -9999    -9999    0.05     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCM0003                                CULLMAN 4.4 E AL US 20180306 -9999    -9999    0.30     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCM0003                                CULLMAN 4.4 E AL US 20180307 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALCM0003                                CULLMAN 4.4 E AL US 20180308 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALCM0003                                CULLMAN 4.4 E AL US 20180309 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALCM0003                                CULLMAN 4.4 E AL US 20180310 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALCM0003                                CULLMAN 4.4 E AL US 20180311 -9999    -9999    2.66     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCM0003                                CULLMAN 4.4 E AL US 20180312 -9999    -9999    0.03     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCM0003                                CULLMAN 4.4 E AL US 20180313 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALCM0003                                CULLMAN 4.4 E AL US 20180314 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALCM0003                                CULLMAN 4.4 E AL US 20180315 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALCM0003                                CULLMAN 4.4 E AL US 20180316 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALCM0003                                CULLMAN 4.4 E AL US 20180317 -9999    -9999    0.01     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCM0003                                CULLMAN 4.4 E AL US 20180318 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALCM0003                                CULLMAN 4.4 E AL US 20180319 -9999    -9999    0.09     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCM0003                                CULLMAN 4.4 E AL US 20180320 -9999    -9999    1.90     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCM0003                                CULLMAN 4.4 E AL US 20180321 -9999    -9999    0.04     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCM0003                                CULLMAN 4.4 E AL US 20180322 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALCM0003                                CULLMAN 4.4 E AL US 20180323 -9999    -9999    0.00     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCM0003                                CULLMAN 4.4 E AL US 20180324 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALCM0003                                CULLMAN 4.4 E AL US 20180325 -9999    -9999    0.08     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCM0003                                CULLMAN 4.4 E AL US 20180326 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALCM0003                                CULLMAN 4.4 E AL US 20180327 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALCM0003                                CULLMAN 4.4 E AL US 20180328 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALCM0003                                CULLMAN 4.4 E AL US 20180329 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALCM0003                                CULLMAN 4.4 E AL US 20180330 -9999    -9999    0.90     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCM0003                                CULLMAN 4.4 E AL US 20180331 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:USC00017304                                   SCOTTSBORO AL US 20180301 -9999    -9999    2.55     0.0      0.0      63       53       -9999    
+GHCND:USC00017304                                   SCOTTSBORO AL US 20180302 -9999    -9999    0.40     0.0      0.0      59       42       -9999    
+GHCND:USC00017304                                   SCOTTSBORO AL US 20180303 -9999    -9999    0.00     0.0      0.0      61       32       -9999    
+GHCND:USC00017304                                   SCOTTSBORO AL US 20180304 -9999    -9999    0.00     0.0      0.0      65       34       -9999    
+GHCND:USC00017304                                   SCOTTSBORO AL US 20180305 -9999    -9999    0.00     0.0      0.0      69       37       -9999    
+GHCND:USC00017304                                   SCOTTSBORO AL US 20180306 -9999    -9999    0.25     0.0      0.0      55       40       -9999    
+GHCND:USC00017304                                   SCOTTSBORO AL US 20180307 -9999    -9999    0.00     0.0      0.0      67       37       -9999    
+GHCND:USC00017304                                   SCOTTSBORO AL US 20180308 -9999    -9999    0.00     0.0      0.0      48       29       -9999    
+GHCND:USC00017304                                   SCOTTSBORO AL US 20180309 -9999    -9999    0.00     0.0      0.0      47       24       -9999    
+GHCND:USC00017304                                   SCOTTSBORO AL US 20180310 -9999    -9999    0.00     0.0      0.0      59       26       -9999    
+GHCND:USC00017304                                   SCOTTSBORO AL US 20180311 -9999    -9999    -9999    0.0      0.0      55       46       -9999    
+GHCND:USC00017304                                   SCOTTSBORO AL US 20180312 1.10     2        -9999    0.0      0.0      59       36       -9999    
+GHCND:USC00017304                                   SCOTTSBORO AL US 20180313 -9999    -9999    0.00     0.0      0.0      54       29       -9999    
+GHCND:USC00017304                                   SCOTTSBORO AL US 20180314 -9999    -9999    0.00     0.0      0.0      56       29       -9999    
+GHCND:USC00017304                                   SCOTTSBORO AL US 20180315 -9999    -9999    0.00     0.0      0.0      52       27       -9999    
+GHCND:USC00017304                                   SCOTTSBORO AL US 20180316 -9999    -9999    0.00     0.0      0.0      68       27       -9999    
+GHCND:USC00017304                                   SCOTTSBORO AL US 20180317 -9999    -9999    0.00     0.0      0.0      70       38       -9999    
+GHCND:USC00017304                                   SCOTTSBORO AL US 20180318 -9999    -9999    0.21     0.0      0.0      77       48       -9999    
+GHCND:USC00017304                                   SCOTTSBORO AL US 20180319 -9999    -9999    0.10     0.0      0.0      66       48       -9999    
+GHCND:USC00017304                                   SCOTTSBORO AL US 20180320 -9999    -9999    0.28     0.0      0.0      64       50       -9999    
+GHCND:USC00017304                                   SCOTTSBORO AL US 20180321 -9999    -9999    0.00     0.0      0.0      56       36       -9999    
+GHCND:USC00017304                                   SCOTTSBORO AL US 20180322 -9999    -9999    0.00     0.0      0.0      52       29       -9999    
+GHCND:USC00017304                                   SCOTTSBORO AL US 20180323 -9999    -9999    0.00     0.0      0.0      60       29       -9999    
+GHCND:USC00017304                                   SCOTTSBORO AL US 20180324 -9999    -9999    0.00     0.0      0.0      63       39       -9999    
+GHCND:USC00017304                                   SCOTTSBORO AL US 20180325 -9999    -9999    0.05     0.0      0.0      69       49       -9999    
+GHCND:USC00017304                                   SCOTTSBORO AL US 20180326 -9999    -9999    0.00     0.0      0.0      62       47       -9999    
+GHCND:USC00017304                                   SCOTTSBORO AL US 20180327 -9999    -9999    0.00     0.0      0.0      52       46       -9999    
+GHCND:USC00017304                                   SCOTTSBORO AL US 20180328 -9999    -9999    0.00     0.0      0.0      62       47       -9999    
+GHCND:USC00017304                                   SCOTTSBORO AL US 20180329 -9999    -9999    0.00     0.0      0.0      76       48       -9999    
+GHCND:USC00017304                                   SCOTTSBORO AL US 20180330 -9999    -9999    0.80     0.0      0.0      74       52       -9999    
+GHCND:USC00017304                                   SCOTTSBORO AL US 20180331 -9999    -9999    0.00     0.0      0.0      62       35       -9999    
+GHCND:US1ALCT0014                        MUSCLE SHOALS 9.7 NNE AL US 20180301 -9999    -9999    1.42     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0014                        MUSCLE SHOALS 9.7 NNE AL US 20180302 -9999    -9999    0.36     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0014                        MUSCLE SHOALS 9.7 NNE AL US 20180305 -9999    -9999    0.01     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0014                        MUSCLE SHOALS 9.7 NNE AL US 20180306 -9999    -9999    0.15     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0014                        MUSCLE SHOALS 9.7 NNE AL US 20180311 -9999    -9999    1.43     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0014                        MUSCLE SHOALS 9.7 NNE AL US 20180312 -9999    -9999    0.05     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0014                        MUSCLE SHOALS 9.7 NNE AL US 20180317 -9999    -9999    0.01     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0014                        MUSCLE SHOALS 9.7 NNE AL US 20180320 -9999    -9999    0.67     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0014                        MUSCLE SHOALS 9.7 NNE AL US 20180325 -9999    -9999    0.34     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0014                        MUSCLE SHOALS 9.7 NNE AL US 20180329 -9999    -9999    0.78     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0014                        MUSCLE SHOALS 9.7 NNE AL US 20180330 -9999    -9999    0.58     -9999    -9999    -9999    -9999    -9999    
+GHCND:USC00012096                                 CULLMAN NAHS AL US 20180301 -9999    -9999    0.95     0.0      0.0      69       51       -9999    
+GHCND:USC00012096                                 CULLMAN NAHS AL US 20180302 -9999    -9999    0.31     0.0      0.0      58       39       -9999    
+GHCND:USC00012096                                 CULLMAN NAHS AL US 20180306 -9999    -9999    0.28     0.0      0.0      58       47       -9999    
+GHCND:USC00012096                                 CULLMAN NAHS AL US 20180307 -9999    -9999    0.00     0.0      0.0      62       33       -9999    
+GHCND:USC00012096                                 CULLMAN NAHS AL US 20180308 -9999    -9999    0.00     0.0      0.0      43       24       -9999    
+GHCND:USC00012096                                 CULLMAN NAHS AL US 20180309 -9999    -9999    0.00     0.0      0.0      46       21       -9999    
+GHCND:USC00012096                                 CULLMAN NAHS AL US 20180310 -9999    -9999    0.00     0.0      0.0      60       28       -9999    
+GHCND:USC00012096                                 CULLMAN NAHS AL US 20180311 -9999    -9999    2.05     0.0      0.0      55       51       -9999    
+GHCND:USC00012096                                 CULLMAN NAHS AL US 20180312 -9999    -9999    0.10     0.0      0.0      57       33       -9999    
+GHCND:USC00012096                                 CULLMAN NAHS AL US 20180313 -9999    -9999    0.00     0.0      0.0      49       25       -9999    
+GHCND:USC00012096                                 CULLMAN NAHS AL US 20180314 -9999    -9999    0.00     0.0      0.0      53       25       -9999    
+GHCND:USC00012096                                 CULLMAN NAHS AL US 20180315 -9999    -9999    0.00     0.0      0.0      48       23       -9999    
+GHCND:USC00012096                                 CULLMAN NAHS AL US 20180316 -9999    -9999    0.00     0.0      0.0      64       24       -9999    
+GHCND:USC00012096                                 CULLMAN NAHS AL US 20180319 -9999    -9999    0.10     0.0      0.0      66       49       -9999    
+GHCND:USC00012096                                 CULLMAN NAHS AL US 20180320 -9999    -9999    1.77     0.0      0.0      72       45       -9999    
+GHCND:USC00012096                                 CULLMAN NAHS AL US 20180321 -9999    -9999    0.05     0.0      0.0      51       31       -9999    
+GHCND:USC00012096                                 CULLMAN NAHS AL US 20180323 -9999    -9999    0.00     0.0      0.0      56       32       -9999    
+GHCND:USC00012096                                 CULLMAN NAHS AL US 20180326 -9999    -9999    0.00     0.0      0.0      73       46       -9999    
+GHCND:USC00012096                                 CULLMAN NAHS AL US 20180327 -9999    -9999    0.00     0.0      0.0      52       44       -9999    
+GHCND:USC00012096                                 CULLMAN NAHS AL US 20180328 -9999    -9999    0.00     0.0      0.0      61       45       -9999    
+GHCND:USC00012096                                 CULLMAN NAHS AL US 20180329 -9999    -9999    0.00     0.0      0.0      73       58       -9999    
+GHCND:USC00012096                                 CULLMAN NAHS AL US 20180330 -9999    -9999    0.88     0.0      0.0      68       49       -9999    
+GHCND:US1ALMD0025                           HUNTSVILLE 4.4 ENE AL US 20180301 -9999    -9999    2.43     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0025                           HUNTSVILLE 4.4 ENE AL US 20180302 -9999    -9999    0.29     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0025                           HUNTSVILLE 4.4 ENE AL US 20180303 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0025                           HUNTSVILLE 4.4 ENE AL US 20180304 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0025                           HUNTSVILLE 4.4 ENE AL US 20180305 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0025                           HUNTSVILLE 4.4 ENE AL US 20180306 -9999    -9999    0.06     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0025                           HUNTSVILLE 4.4 ENE AL US 20180307 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0025                           HUNTSVILLE 4.4 ENE AL US 20180308 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0025                           HUNTSVILLE 4.4 ENE AL US 20180309 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0025                           HUNTSVILLE 4.4 ENE AL US 20180310 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0025                           HUNTSVILLE 4.4 ENE AL US 20180311 -9999    -9999    0.75     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0025                           HUNTSVILLE 4.4 ENE AL US 20180312 -9999    -9999    0.33     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0025                           HUNTSVILLE 4.4 ENE AL US 20180313 -9999    -9999    0.01     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0025                           HUNTSVILLE 4.4 ENE AL US 20180314 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0025                           HUNTSVILLE 4.4 ENE AL US 20180315 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0025                           HUNTSVILLE 4.4 ENE AL US 20180316 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0025                           HUNTSVILLE 4.4 ENE AL US 20180317 -9999    -9999    0.01     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0025                           HUNTSVILLE 4.4 ENE AL US 20180318 -9999    -9999    0.27     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0025                           HUNTSVILLE 4.4 ENE AL US 20180319 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0025                           HUNTSVILLE 4.4 ENE AL US 20180320 -9999    -9999    0.23     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0025                           HUNTSVILLE 4.4 ENE AL US 20180321 -9999    -9999    0.01     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0025                           HUNTSVILLE 4.4 ENE AL US 20180322 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0025                           HUNTSVILLE 4.4 ENE AL US 20180323 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0025                           HUNTSVILLE 4.4 ENE AL US 20180324 -9999    -9999    0.01     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0025                           HUNTSVILLE 4.4 ENE AL US 20180325 -9999    -9999    0.22     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0025                           HUNTSVILLE 4.4 ENE AL US 20180326 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0025                           HUNTSVILLE 4.4 ENE AL US 20180327 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0025                           HUNTSVILLE 4.4 ENE AL US 20180328 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0025                           HUNTSVILLE 4.4 ENE AL US 20180329 -9999    -9999    1.00     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0025                           HUNTSVILLE 4.4 ENE AL US 20180330 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0025                           HUNTSVILLE 4.4 ENE AL US 20180331 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:USW00063867                                CULLMAN 3 ENE AL US 20180301 -9999    -9999    0.81     -9999    -9999    66       48       -9999    
+GHCND:USW00063867                                CULLMAN 3 ENE AL US 20180302 -9999    -9999    0.00     -9999    -9999    56       34       -9999    
+GHCND:USW00063867                                CULLMAN 3 ENE AL US 20180303 -9999    -9999    0.00     -9999    -9999    62       30       -9999    
+GHCND:USW00063867                                CULLMAN 3 ENE AL US 20180304 -9999    -9999    0.00     -9999    -9999    68       32       -9999    
+GHCND:USW00063867                                CULLMAN 3 ENE AL US 20180305 -9999    -9999    0.13     -9999    -9999    58       46       -9999    
+GHCND:USW00063867                                CULLMAN 3 ENE AL US 20180306 -9999    -9999    0.26     -9999    -9999    63       47       -9999    
+GHCND:USW00063867                                CULLMAN 3 ENE AL US 20180307 -9999    -9999    0.00     -9999    -9999    48       33       -9999    
+GHCND:USW00063867                                CULLMAN 3 ENE AL US 20180308 -9999    -9999    0.00     -9999    -9999    47       25       -9999    
+GHCND:USW00063867                                CULLMAN 3 ENE AL US 20180309 -9999    -9999    0.00     -9999    -9999    62       23       -9999    
+GHCND:USW00063867                                CULLMAN 3 ENE AL US 20180310 -9999    -9999    1.21     -9999    -9999    58       39       -9999    
+GHCND:USW00063867                                CULLMAN 3 ENE AL US 20180311 -9999    -9999    1.00     -9999    -9999    58       41       -9999    
+GHCND:USW00063867                                CULLMAN 3 ENE AL US 20180312 -9999    -9999    0.00     -9999    -9999    51       35       -9999    
+GHCND:USW00063867                                CULLMAN 3 ENE AL US 20180313 -9999    -9999    0.00     -9999    -9999    54       26       -9999    
+GHCND:USW00063867                                CULLMAN 3 ENE AL US 20180314 -9999    -9999    0.00     -9999    -9999    49       27       -9999    
+GHCND:USW00063867                                CULLMAN 3 ENE AL US 20180315 -9999    -9999    0.00     -9999    -9999    66       24       -9999    
+GHCND:USW00063867                                CULLMAN 3 ENE AL US 20180316 -9999    -9999    0.00     -9999    -9999    64       35       -9999    
+GHCND:USW00063867                                CULLMAN 3 ENE AL US 20180317 -9999    -9999    0.00     -9999    -9999    75       56       -9999    
+GHCND:USW00063867                                CULLMAN 3 ENE AL US 20180318 -9999    -9999    0.06     -9999    -9999    68       50       -9999    
+GHCND:USW00063867                                CULLMAN 3 ENE AL US 20180319 -9999    -9999    1.69     -9999    -9999    73       52       -9999    
+GHCND:USW00063867                                CULLMAN 3 ENE AL US 20180320 -9999    -9999    0.01     -9999    -9999    53       37       -9999    
+GHCND:USW00063867                                CULLMAN 3 ENE AL US 20180321 -9999    -9999    0.00     -9999    -9999    51       33       -9999    
+GHCND:USW00063867                                CULLMAN 3 ENE AL US 20180322 -9999    -9999    0.00     -9999    -9999    56       28       -9999    
+GHCND:USW00063867                                CULLMAN 3 ENE AL US 20180323 -9999    -9999    0.00     -9999    -9999    62       33       -9999    
+GHCND:USW00063867                                CULLMAN 3 ENE AL US 20180324 -9999    -9999    0.01     -9999    -9999    71       46       -9999    
+GHCND:USW00063867                                CULLMAN 3 ENE AL US 20180325 -9999    -9999    0.06     -9999    -9999    74       51       -9999    
+GHCND:USW00063867                                CULLMAN 3 ENE AL US 20180326 -9999    -9999    0.00     -9999    -9999    53       48       -9999    
+GHCND:USW00063867                                CULLMAN 3 ENE AL US 20180327 -9999    -9999    0.00     -9999    -9999    62       46       -9999    
+GHCND:USW00063867                                CULLMAN 3 ENE AL US 20180328 -9999    -9999    0.00     -9999    -9999    74       58       -9999    
+GHCND:USW00063867                                CULLMAN 3 ENE AL US 20180329 -9999    -9999    0.93     -9999    -9999    70       56       -9999    
+GHCND:USW00063867                                CULLMAN 3 ENE AL US 20180330 -9999    -9999    0.00     -9999    -9999    59       38       -9999    
+GHCND:USW00063867                                CULLMAN 3 ENE AL US 20180331 -9999    -9999    0.00     -9999    -9999    69       33       -9999    
+GHCND:US1ALMD0003                             HUNTSVILLE 4.0 E AL US 20180302 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0003                             HUNTSVILLE 4.0 E AL US 20180303 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0003                             HUNTSVILLE 4.0 E AL US 20180304 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0003                             HUNTSVILLE 4.0 E AL US 20180305 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0003                             HUNTSVILLE 4.0 E AL US 20180306 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0003                             HUNTSVILLE 4.0 E AL US 20180307 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0003                             HUNTSVILLE 4.0 E AL US 20180308 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0003                             HUNTSVILLE 4.0 E AL US 20180309 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0003                             HUNTSVILLE 4.0 E AL US 20180312 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0003                             HUNTSVILLE 4.0 E AL US 20180313 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0003                             HUNTSVILLE 4.0 E AL US 20180315 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0003                             HUNTSVILLE 4.0 E AL US 20180316 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0003                             HUNTSVILLE 4.0 E AL US 20180317 -9999    -9999    0.12     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0003                             HUNTSVILLE 4.0 E AL US 20180318 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0003                             HUNTSVILLE 4.0 E AL US 20180319 -9999    -9999    0.11     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0003                             HUNTSVILLE 4.0 E AL US 20180320 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0003                             HUNTSVILLE 4.0 E AL US 20180321 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0003                             HUNTSVILLE 4.0 E AL US 20180322 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0003                             HUNTSVILLE 4.0 E AL US 20180323 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0003                             HUNTSVILLE 4.0 E AL US 20180324 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0003                             HUNTSVILLE 4.0 E AL US 20180325 -9999    -9999    0.17     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0003                             HUNTSVILLE 4.0 E AL US 20180326 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0003                             HUNTSVILLE 4.0 E AL US 20180327 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0003                             HUNTSVILLE 4.0 E AL US 20180328 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0003                             HUNTSVILLE 4.0 E AL US 20180329 -9999    -9999    0.90     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0003                             HUNTSVILLE 4.0 E AL US 20180330 -9999    -9999    0.03     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0003                             HUNTSVILLE 4.0 E AL US 20180331 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0004                            HUNTSVILLE 5.9 SE AL US 20180301 -9999    -9999    1.66     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0004                            HUNTSVILLE 5.9 SE AL US 20180302 -9999    -9999    0.41     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0004                            HUNTSVILLE 5.9 SE AL US 20180303 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0004                            HUNTSVILLE 5.9 SE AL US 20180304 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0004                            HUNTSVILLE 5.9 SE AL US 20180305 -9999    -9999    0.01     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0004                            HUNTSVILLE 5.9 SE AL US 20180306 -9999    -9999    0.18     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0004                            HUNTSVILLE 5.9 SE AL US 20180307 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0004                            HUNTSVILLE 5.9 SE AL US 20180308 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0004                            HUNTSVILLE 5.9 SE AL US 20180309 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0004                            HUNTSVILLE 5.9 SE AL US 20180310 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0004                            HUNTSVILLE 5.9 SE AL US 20180311 -9999    -9999    0.95     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0004                            HUNTSVILLE 5.9 SE AL US 20180312 -9999    -9999    0.20     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0004                            HUNTSVILLE 5.9 SE AL US 20180313 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0004                            HUNTSVILLE 5.9 SE AL US 20180314 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0004                            HUNTSVILLE 5.9 SE AL US 20180315 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0004                            HUNTSVILLE 5.9 SE AL US 20180316 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0004                            HUNTSVILLE 5.9 SE AL US 20180317 -9999    -9999    0.17     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0004                            HUNTSVILLE 5.9 SE AL US 20180318 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0004                            HUNTSVILLE 5.9 SE AL US 20180319 -9999    -9999    0.02     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0004                            HUNTSVILLE 5.9 SE AL US 20180320 -9999    -9999    0.25     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0004                            HUNTSVILLE 5.9 SE AL US 20180321 -9999    -9999    0.01     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0004                            HUNTSVILLE 5.9 SE AL US 20180322 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0004                            HUNTSVILLE 5.9 SE AL US 20180323 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0004                            HUNTSVILLE 5.9 SE AL US 20180324 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0004                            HUNTSVILLE 5.9 SE AL US 20180325 -9999    -9999    0.14     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0004                            HUNTSVILLE 5.9 SE AL US 20180326 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0004                            HUNTSVILLE 5.9 SE AL US 20180327 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0004                            HUNTSVILLE 5.9 SE AL US 20180328 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0004                            HUNTSVILLE 5.9 SE AL US 20180329 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0004                            HUNTSVILLE 5.9 SE AL US 20180330 -9999    -9999    0.66     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0004                            HUNTSVILLE 5.9 SE AL US 20180331 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:USW00063896                              SCOTTSBORO 2 NE AL US 20180301 -9999    -9999    0.59     -9999    -9999    63       50       -9999    
+GHCND:USW00063896                              SCOTTSBORO 2 NE AL US 20180302 -9999    -9999    0.00     -9999    -9999    58       37       -9999    
+GHCND:USW00063896                              SCOTTSBORO 2 NE AL US 20180303 -9999    -9999    0.00     -9999    -9999    63       33       -9999    
+GHCND:USW00063896                              SCOTTSBORO 2 NE AL US 20180304 -9999    -9999    0.00     -9999    -9999    67       36       -9999    
+GHCND:USW00063896                              SCOTTSBORO 2 NE AL US 20180305 -9999    -9999    0.02     -9999    -9999    55       39       -9999    
+GHCND:USW00063896                              SCOTTSBORO 2 NE AL US 20180306 -9999    -9999    0.20     -9999    -9999    66       45       -9999    
+GHCND:USW00063896                              SCOTTSBORO 2 NE AL US 20180307 -9999    -9999    0.00     -9999    -9999    51       36       -9999    
+GHCND:USW00063896                              SCOTTSBORO 2 NE AL US 20180308 -9999    -9999    0.00     -9999    -9999    47       27       -9999    
+GHCND:USW00063896                              SCOTTSBORO 2 NE AL US 20180309 -9999    -9999    0.00     -9999    -9999    60       24       -9999    
+GHCND:USW00063896                              SCOTTSBORO 2 NE AL US 20180310 -9999    -9999    0.59     -9999    -9999    54       36       -9999    
+GHCND:USW00063896                              SCOTTSBORO 2 NE AL US 20180311 -9999    -9999    0.21     -9999    -9999    60       44       -9999    
+GHCND:USW00063896                              SCOTTSBORO 2 NE AL US 20180312 -9999    -9999    0.00     -9999    -9999    51       36       -9999    
+GHCND:USW00063896                              SCOTTSBORO 2 NE AL US 20180313 -9999    -9999    0.00     -9999    -9999    55       28       -9999    
+GHCND:USW00063896                              SCOTTSBORO 2 NE AL US 20180314 -9999    -9999    0.00     -9999    -9999    50       29       -9999    
+GHCND:USW00063896                              SCOTTSBORO 2 NE AL US 20180315 -9999    -9999    0.00     -9999    -9999    68       27       -9999    
+GHCND:USW00063896                              SCOTTSBORO 2 NE AL US 20180316 -9999    -9999    0.00     -9999    -9999    71       36       -9999    
+GHCND:USW00063896                              SCOTTSBORO 2 NE AL US 20180317 -9999    -9999    0.21     -9999    -9999    76       55       -9999    
+GHCND:USW00063896                              SCOTTSBORO 2 NE AL US 20180318 -9999    -9999    0.07     -9999    -9999    65       44       -9999    
+GHCND:USW00063896                              SCOTTSBORO 2 NE AL US 20180319 -9999    -9999    0.15     -9999    -9999    65       52       -9999    
+GHCND:USW00063896                              SCOTTSBORO 2 NE AL US 20180320 -9999    -9999    0.00     -9999    -9999    56       38       -9999    
+GHCND:USW00063896                              SCOTTSBORO 2 NE AL US 20180321 -9999    -9999    0.00     -9999    -9999    51       32       -9999    
+GHCND:USW00063896                              SCOTTSBORO 2 NE AL US 20180322 -9999    -9999    0.00     -9999    -9999    57       28       -9999    
+GHCND:USW00063896                              SCOTTSBORO 2 NE AL US 20180323 -9999    -9999    0.00     -9999    -9999    64       33       -9999    
+GHCND:USW00063896                              SCOTTSBORO 2 NE AL US 20180324 -9999    -9999    0.02     -9999    -9999    69       47       -9999    
+GHCND:USW00063896                              SCOTTSBORO 2 NE AL US 20180325 -9999    -9999    0.02     -9999    -9999    62       51       -9999    
+GHCND:USW00063896                              SCOTTSBORO 2 NE AL US 20180326 -9999    -9999    0.00     -9999    -9999    53       47       -9999    
+GHCND:USW00063896                              SCOTTSBORO 2 NE AL US 20180327 -9999    -9999    0.00     -9999    -9999    62       47       -9999    
+GHCND:USW00063896                              SCOTTSBORO 2 NE AL US 20180328 -9999    -9999    0.00     -9999    -9999    75       46       -9999    
+GHCND:USW00063896                              SCOTTSBORO 2 NE AL US 20180329 -9999    -9999    0.76     -9999    -9999    76       55       -9999    
+GHCND:USW00063896                              SCOTTSBORO 2 NE AL US 20180330 -9999    -9999    0.00     -9999    -9999    61       39       -9999    
+GHCND:USW00063896                              SCOTTSBORO 2 NE AL US 20180331 -9999    -9999    0.00     -9999    -9999    69       34       -9999    
+GHCND:USW00063894                            MUSCLE SHOALS 2 N AL US 20180301 -9999    -9999    0.63     -9999    -9999    62       49       -9999    
+GHCND:USW00063894                            MUSCLE SHOALS 2 N AL US 20180302 -9999    -9999    0.00     -9999    -9999    57       41       -9999    
+GHCND:USW00063894                            MUSCLE SHOALS 2 N AL US 20180303 -9999    -9999    0.00     -9999    -9999    61       39       -9999    
+GHCND:USW00063894                            MUSCLE SHOALS 2 N AL US 20180304 -9999    -9999    0.00     -9999    -9999    67       35       -9999    
+GHCND:USW00063894                            MUSCLE SHOALS 2 N AL US 20180305 -9999    -9999    0.14     -9999    -9999    61       49       -9999    
+GHCND:USW00063894                            MUSCLE SHOALS 2 N AL US 20180306 -9999    -9999    0.00     -9999    -9999    64       45       -9999    
+GHCND:USW00063894                            MUSCLE SHOALS 2 N AL US 20180307 -9999    -9999    0.00     -9999    -9999    45       29       -9999    
+GHCND:USW00063894                            MUSCLE SHOALS 2 N AL US 20180308 -9999    -9999    0.00     -9999    -9999    48       27       -9999    
+GHCND:USW00063894                            MUSCLE SHOALS 2 N AL US 20180309 -9999    -9999    0.00     -9999    -9999    63       26       -9999    
+GHCND:USW00063894                            MUSCLE SHOALS 2 N AL US 20180310 -9999    -9999    0.94     -9999    -9999    61       47       -9999    
+GHCND:USW00063894                            MUSCLE SHOALS 2 N AL US 20180311 -9999    -9999    0.30     -9999    -9999    59       38       -9999    
+GHCND:USW00063894                            MUSCLE SHOALS 2 N AL US 20180312 -9999    -9999    0.00     -9999    -9999    53       35       -9999    
+GHCND:USW00063894                            MUSCLE SHOALS 2 N AL US 20180313 -9999    -9999    0.00     -9999    -9999    55       30       -9999    
+GHCND:USW00063894                            MUSCLE SHOALS 2 N AL US 20180314 -9999    -9999    0.00     -9999    -9999    51       31       -9999    
+GHCND:USW00063894                            MUSCLE SHOALS 2 N AL US 20180315 -9999    -9999    0.00     -9999    -9999    68       28       -9999    
+GHCND:USW00063894                            MUSCLE SHOALS 2 N AL US 20180316 -9999    -9999    0.00     -9999    -9999    67       42       -9999    
+GHCND:USW00063894                            MUSCLE SHOALS 2 N AL US 20180317 -9999    -9999    0.00     -9999    -9999    78       59       -9999    
+GHCND:USW00063894                            MUSCLE SHOALS 2 N AL US 20180318 -9999    -9999    0.04     -9999    -9999    60       47       -9999    
+GHCND:USW00063894                            MUSCLE SHOALS 2 N AL US 20180319 -9999    -9999    0.22     -9999    -9999    68       51       -9999    
+GHCND:USW00063894                            MUSCLE SHOALS 2 N AL US 20180320 -9999    -9999    0.00     -9999    -9999    55       36       -9999    
+GHCND:USW00063894                            MUSCLE SHOALS 2 N AL US 20180321 -9999    -9999    0.00     -9999    -9999    52       33       -9999    
+GHCND:USW00063894                            MUSCLE SHOALS 2 N AL US 20180322 -9999    -9999    0.00     -9999    -9999    59       29       -9999    
+GHCND:USW00063894                            MUSCLE SHOALS 2 N AL US 20180323 -9999    -9999    0.00     -9999    -9999    59       36       -9999    
+GHCND:USW00063894                            MUSCLE SHOALS 2 N AL US 20180324 -9999    -9999    0.00     -9999    -9999    67       49       -9999    
+GHCND:USW00063894                            MUSCLE SHOALS 2 N AL US 20180325 -9999    -9999    0.53     -9999    -9999    65       49       -9999    
+GHCND:USW00063894                            MUSCLE SHOALS 2 N AL US 20180326 -9999    -9999    0.00     -9999    -9999    56       50       -9999    
+GHCND:USW00063894                            MUSCLE SHOALS 2 N AL US 20180327 -9999    -9999    0.00     -9999    -9999    71       49       -9999    
+GHCND:USW00063894                            MUSCLE SHOALS 2 N AL US 20180328 -9999    -9999    0.85     -9999    -9999    72       60       -9999    
+GHCND:USW00063894                            MUSCLE SHOALS 2 N AL US 20180329 -9999    -9999    0.80     -9999    -9999    62       52       -9999    
+GHCND:USW00063894                            MUSCLE SHOALS 2 N AL US 20180330 -9999    -9999    0.00     -9999    -9999    61       41       -9999    
+GHCND:USW00063894                            MUSCLE SHOALS 2 N AL US 20180331 -9999    -9999    0.00     -9999    -9999    69       35       -9999    
+GHCND:US1ALMD0012                           HUNTSVILLE 7.9 SSE AL US 20180301 -9999    -9999    1.43     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0012                           HUNTSVILLE 7.9 SSE AL US 20180302 -9999    -9999    0.40     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0012                           HUNTSVILLE 7.9 SSE AL US 20180303 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0012                           HUNTSVILLE 7.9 SSE AL US 20180304 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0012                           HUNTSVILLE 7.9 SSE AL US 20180305 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0012                           HUNTSVILLE 7.9 SSE AL US 20180306 -9999    -9999    0.22     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0012                           HUNTSVILLE 7.9 SSE AL US 20180307 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0012                           HUNTSVILLE 7.9 SSE AL US 20180308 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0012                           HUNTSVILLE 7.9 SSE AL US 20180309 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0012                           HUNTSVILLE 7.9 SSE AL US 20180310 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0012                           HUNTSVILLE 7.9 SSE AL US 20180311 -9999    -9999    1.23     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0012                           HUNTSVILLE 7.9 SSE AL US 20180312 -9999    -9999    0.15     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0012                           HUNTSVILLE 7.9 SSE AL US 20180313 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0012                           HUNTSVILLE 7.9 SSE AL US 20180314 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0012                           HUNTSVILLE 7.9 SSE AL US 20180315 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0012                           HUNTSVILLE 7.9 SSE AL US 20180316 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0012                           HUNTSVILLE 7.9 SSE AL US 20180317 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0012                           HUNTSVILLE 7.9 SSE AL US 20180318 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0012                           HUNTSVILLE 7.9 SSE AL US 20180319 -9999    -9999    0.12     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0012                           HUNTSVILLE 7.9 SSE AL US 20180320 -9999    -9999    0.26     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0012                           HUNTSVILLE 7.9 SSE AL US 20180321 -9999    -9999    0.02     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0012                           HUNTSVILLE 7.9 SSE AL US 20180322 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0012                           HUNTSVILLE 7.9 SSE AL US 20180323 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0012                           HUNTSVILLE 7.9 SSE AL US 20180324 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0012                           HUNTSVILLE 7.9 SSE AL US 20180325 -9999    -9999    0.13     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0012                           HUNTSVILLE 7.9 SSE AL US 20180326 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0012                           HUNTSVILLE 7.9 SSE AL US 20180327 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0012                           HUNTSVILLE 7.9 SSE AL US 20180328 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0012                           HUNTSVILLE 7.9 SSE AL US 20180329 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALMD0012                           HUNTSVILLE 7.9 SSE AL US 20180330 -9999    -9999    0.77     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALMD0012                           HUNTSVILLE 7.9 SSE AL US 20180331 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:USW00053852                          DECATUR PRYOR FIELD AL US 20180301 -9999    -9999    0.34     0.0      0.0      64       47       9.6      
+GHCND:USW00053852                          DECATUR PRYOR FIELD AL US 20180302 -9999    -9999    0.00     0.0      0.0      58       37       8.7      
+GHCND:USW00053852                          DECATUR PRYOR FIELD AL US 20180303 -9999    -9999    0.00     0.0      0.0      62       31       6.5      
+GHCND:USW00053852                          DECATUR PRYOR FIELD AL US 20180304 -9999    -9999    0.00     0.0      0.0      69       34       4.0      
+GHCND:USW00053852                          DECATUR PRYOR FIELD AL US 20180305 -9999    -9999    0.07     0.0      0.0      58       46       6.7      
+GHCND:USW00053852                          DECATUR PRYOR FIELD AL US 20180306 -9999    -9999    0.03     0.0      0.0      64       47       12.8     
+GHCND:USW00053852                          DECATUR PRYOR FIELD AL US 20180307 -9999    -9999    0.00     0.0      0.0      47       30       11.6     
+GHCND:USW00053852                          DECATUR PRYOR FIELD AL US 20180308 -9999    -9999    0.00     0.0      0.0      47       28       8.5      
+GHCND:USW00053852                          DECATUR PRYOR FIELD AL US 20180309 -9999    -9999    0.00     0.0      0.0      63       24       7.2      
+GHCND:USW00053852                          DECATUR PRYOR FIELD AL US 20180310 -9999    -9999    1.51     0.0      0.0      57       48       6.0      
+GHCND:USW00053852                          DECATUR PRYOR FIELD AL US 20180311 -9999    -9999    0.31     0.0      0.0      59       39       8.1      
+GHCND:USW00053852                          DECATUR PRYOR FIELD AL US 20180312 -9999    -9999    0.00     0.0      0.0      53       36       15.0     
+GHCND:USW00053852                          DECATUR PRYOR FIELD AL US 20180313 -9999    -9999    0.00     0.0      0.0      54       30       9.2      
+GHCND:USW00053852                          DECATUR PRYOR FIELD AL US 20180314 -9999    -9999    0.00     0.0      0.0      50       28       6.5      
+GHCND:USW00053852                          DECATUR PRYOR FIELD AL US 20180315 -9999    -9999    0.00     0.0      0.0      68       28       7.4      
+GHCND:USW00053852                          DECATUR PRYOR FIELD AL US 20180316 -9999    -9999    0.00     0.0      0.0      68       42       7.4      
+GHCND:USW00053852                          DECATUR PRYOR FIELD AL US 20180317 -9999    -9999    0.09     0.0      0.0      79       57       9.6      
+GHCND:USW00053852                          DECATUR PRYOR FIELD AL US 20180318 -9999    -9999    0.09     0.0      -9999    63       47       5.4      
+GHCND:USW00053852                          DECATUR PRYOR FIELD AL US 20180319 -9999    -9999    0.09     0.0      0.0      70       50       5.1      
+GHCND:USW00053852                          DECATUR PRYOR FIELD AL US 20180320 -9999    -9999    0.00     0.0      0.0      53       38       11.9     
+GHCND:USW00053852                          DECATUR PRYOR FIELD AL US 20180321 -9999    -9999    0.00     0.0      0.0      53       35       12.8     
+GHCND:USW00053852                          DECATUR PRYOR FIELD AL US 20180322 -9999    -9999    0.00     0.0      0.0      60       29       4.9      
+GHCND:USW00053852                          DECATUR PRYOR FIELD AL US 20180323 -9999    -9999    0.01     0.0      0.0      62       35       4.5      
+GHCND:USW00053852                          DECATUR PRYOR FIELD AL US 20180324 -9999    -9999    0.02     0.0      0.0      69       52       9.8      
+GHCND:USW00053852                          DECATUR PRYOR FIELD AL US 20180325 -9999    -9999    0.15     0.0      0.0      66       53       7.6      
+GHCND:USW00053852                          DECATUR PRYOR FIELD AL US 20180326 -9999    -9999    0.00     0.0      0.0      56       50       16.8     
+GHCND:USW00053852                          DECATUR PRYOR FIELD AL US 20180327 -9999    -9999    0.00     0.0      0.0      65       48       13.4     
+GHCND:USW00053852                          DECATUR PRYOR FIELD AL US 20180328 -9999    -9999    0.00     0.0      0.0      72       58       11.0     
+GHCND:USW00053852                          DECATUR PRYOR FIELD AL US 20180329 -9999    -9999    0.91     0.0      0.0      69       55       6.7      
+GHCND:USW00053852                          DECATUR PRYOR FIELD AL US 20180330 -9999    -9999    0.00     0.0      0.0      62       41       8.3      
+GHCND:USW00053852                          DECATUR PRYOR FIELD AL US 20180331 -9999    -9999    0.00     0.0      0.0      70       34       5.1      
+GHCND:US1ALJC0009                            SCOTTSBORO 4.6 NW AL US 20180301 -9999    -9999    2.71     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALJC0009                            SCOTTSBORO 4.6 NW AL US 20180302 -9999    -9999    0.35     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALJC0009                            SCOTTSBORO 4.6 NW AL US 20180303 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALJC0009                            SCOTTSBORO 4.6 NW AL US 20180304 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALJC0009                            SCOTTSBORO 4.6 NW AL US 20180305 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALJC0009                            SCOTTSBORO 4.6 NW AL US 20180306 -9999    -9999    0.28     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALJC0009                            SCOTTSBORO 4.6 NW AL US 20180307 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALJC0009                            SCOTTSBORO 4.6 NW AL US 20180308 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALJC0009                            SCOTTSBORO 4.6 NW AL US 20180309 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALJC0009                            SCOTTSBORO 4.6 NW AL US 20180310 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALJC0009                            SCOTTSBORO 4.6 NW AL US 20180311 -9999    -9999    0.85     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALJC0009                            SCOTTSBORO 4.6 NW AL US 20180312 -9999    -9999    0.26     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALJC0009                            SCOTTSBORO 4.6 NW AL US 20180313 -9999    -9999    0.01     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALJC0009                            SCOTTSBORO 4.6 NW AL US 20180314 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALJC0009                            SCOTTSBORO 4.6 NW AL US 20180315 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALJC0009                            SCOTTSBORO 4.6 NW AL US 20180316 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALJC0009                            SCOTTSBORO 4.6 NW AL US 20180317 -9999    -9999    0.37     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALJC0009                            SCOTTSBORO 4.6 NW AL US 20180319 -9999    -9999    0.08     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALJC0009                            SCOTTSBORO 4.6 NW AL US 20180320 -9999    -9999    0.21     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALJC0009                            SCOTTSBORO 4.6 NW AL US 20180321 -9999    -9999    0.03     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALJC0009                            SCOTTSBORO 4.6 NW AL US 20180328 -9999    -9999    0.00     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALJC0009                            SCOTTSBORO 4.6 NW AL US 20180329 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:US1ALJC0009                            SCOTTSBORO 4.6 NW AL US 20180330 -9999    -9999    0.85     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALJC0009                            SCOTTSBORO 4.6 NW AL US 20180331 -9999    -9999    0.00     -9999    0.0      -9999    -9999    -9999    
+GHCND:USC00016196                        OWENS CROSS ROADS 3 S AL US 20180301 -9999    -9999    1.24     0.0      0.0      67       52       -9999    
+GHCND:USC00016196                        OWENS CROSS ROADS 3 S AL US 20180302 -9999    -9999    0.35     0.0      0.0      60       41       -9999    
+GHCND:USC00016196                        OWENS CROSS ROADS 3 S AL US 20180303 -9999    -9999    0.00     0.0      0.0      57       30       -9999    
+GHCND:USC00016196                        OWENS CROSS ROADS 3 S AL US 20180304 -9999    -9999    0.00     0.0      0.0      62       31       -9999    
+GHCND:USC00016196                        OWENS CROSS ROADS 3 S AL US 20180305 -9999    -9999    0.00     0.0      0.0      67       31       -9999    
+GHCND:USC00016196                        OWENS CROSS ROADS 3 S AL US 20180306 -9999    -9999    0.26     0.0      0.0      57       48       -9999    
+GHCND:USC00016196                        OWENS CROSS ROADS 3 S AL US 20180307 -9999    -9999    0.00     0.0      0.0      64       36       -9999    
+GHCND:USC00016196                        OWENS CROSS ROADS 3 S AL US 20180308 -9999    -9999    0.00     0.0      0.0      46       29       -9999    
+GHCND:USC00016196                        OWENS CROSS ROADS 3 S AL US 20180309 -9999    -9999    0.00     0.0      0.0      46       25       -9999    
+GHCND:USC00016196                        OWENS CROSS ROADS 3 S AL US 20180310 -9999    -9999    0.00     0.0      0.0      60       25       -9999    
+GHCND:USC00016196                        OWENS CROSS ROADS 3 S AL US 20180311 -9999    -9999    1.31     0.0      0.0      58       50       -9999    
+GHCND:USC00016196                        OWENS CROSS ROADS 3 S AL US 20180312 -9999    -9999    0.06     0.0      0.0      59       35       -9999    
+GHCND:USC00016196                        OWENS CROSS ROADS 3 S AL US 20180313 -9999    -9999    0.00     0.0      0.0      52       28       -9999    
+GHCND:USC00016196                        OWENS CROSS ROADS 3 S AL US 20180314 -9999    -9999    0.00     0.0      0.0      53       28       -9999    
+GHCND:USC00016196                        OWENS CROSS ROADS 3 S AL US 20180315 -9999    -9999    0.00     0.0      0.0      49       26       -9999    
+GHCND:USC00016196                        OWENS CROSS ROADS 3 S AL US 20180316 -9999    -9999    0.00     0.0      0.0      67       25       -9999    
+GHCND:USC00016196                        OWENS CROSS ROADS 3 S AL US 20180317 -9999    -9999    0.03     0.0      0.0      67       40       -9999    
+GHCND:USC00016196                        OWENS CROSS ROADS 3 S AL US 20180318 -9999    -9999    0.00     0.0      0.0      77       48       -9999    
+GHCND:USC00016196                        OWENS CROSS ROADS 3 S AL US 20180319 -9999    -9999    0.16     0.0      0.0      65       48       -9999    
+GHCND:USC00016196                        OWENS CROSS ROADS 3 S AL US 20180320 -9999    -9999    0.18     0.0      0.0      67       45       -9999    
+GHCND:USC00016196                        OWENS CROSS ROADS 3 S AL US 20180321 -9999    -9999    0.01     0.0      0.0      54       35       -9999    
+GHCND:USC00016196                        OWENS CROSS ROADS 3 S AL US 20180322 -9999    -9999    0.00     0.0      0.0      51       28       -9999    
+GHCND:USC00016196                        OWENS CROSS ROADS 3 S AL US 20180323 -9999    -9999    0.00     0.0      0.0      57       28       -9999    
+GHCND:USC00016196                        OWENS CROSS ROADS 3 S AL US 20180324 -9999    -9999    0.00     0.0      0.0      62       38       -9999    
+GHCND:USC00016196                        OWENS CROSS ROADS 3 S AL US 20180325 -9999    -9999    0.22     0.0      0.0      70       52       -9999    
+GHCND:USC00016196                        OWENS CROSS ROADS 3 S AL US 20180326 -9999    -9999    0.00     0.0      0.0      68       49       -9999    
+GHCND:USC00016196                        OWENS CROSS ROADS 3 S AL US 20180327 -9999    -9999    0.00     0.0      0.0      53       46       -9999    
+GHCND:USC00016196                        OWENS CROSS ROADS 3 S AL US 20180328 -9999    -9999    0.00     0.0      0.0      62       47       -9999    
+GHCND:USC00016196                        OWENS CROSS ROADS 3 S AL US 20180329 -9999    -9999    0.00     0.0      0.0      73       50       -9999    
+GHCND:USC00016196                        OWENS CROSS ROADS 3 S AL US 20180330 -9999    -9999    0.88     0.0      0.0      71       51       -9999    
+GHCND:USC00016196                        OWENS CROSS ROADS 3 S AL US 20180331 -9999    -9999    0.00     0.0      0.0      60       33       -9999    
+GHCND:US1ALCT0004                        MUSCLE SHOALS 1.3 SSW AL US 20180301 -9999    -9999    1.49     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0004                        MUSCLE SHOALS 1.3 SSW AL US 20180302 -9999    -9999    0.32     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0004                        MUSCLE SHOALS 1.3 SSW AL US 20180303 -9999    -9999    0.00     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0004                        MUSCLE SHOALS 1.3 SSW AL US 20180304 -9999    -9999    0.00     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0004                        MUSCLE SHOALS 1.3 SSW AL US 20180305 -9999    -9999    0.10     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0004                        MUSCLE SHOALS 1.3 SSW AL US 20180306 -9999    -9999    0.12     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0004                        MUSCLE SHOALS 1.3 SSW AL US 20180307 -9999    -9999    0.00     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0004                        MUSCLE SHOALS 1.3 SSW AL US 20180308 -9999    -9999    0.00     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0004                        MUSCLE SHOALS 1.3 SSW AL US 20180312 -9999    -9999    0.07     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0004                        MUSCLE SHOALS 1.3 SSW AL US 20180313 -9999    -9999    0.00     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0004                        MUSCLE SHOALS 1.3 SSW AL US 20180314 -9999    -9999    0.00     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0004                        MUSCLE SHOALS 1.3 SSW AL US 20180315 -9999    -9999    0.00     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0004                        MUSCLE SHOALS 1.3 SSW AL US 20180316 -9999    -9999    0.00     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0004                        MUSCLE SHOALS 1.3 SSW AL US 20180317 -9999    -9999    0.05     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0004                        MUSCLE SHOALS 1.3 SSW AL US 20180318 -9999    -9999    0.00     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0004                        MUSCLE SHOALS 1.3 SSW AL US 20180319 -9999    -9999    0.02     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0004                        MUSCLE SHOALS 1.3 SSW AL US 20180320 -9999    -9999    1.25     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0004                        MUSCLE SHOALS 1.3 SSW AL US 20180321 -9999    -9999    0.01     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0004                        MUSCLE SHOALS 1.3 SSW AL US 20180322 -9999    -9999    0.00     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0004                        MUSCLE SHOALS 1.3 SSW AL US 20180323 -9999    -9999    0.00     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0004                        MUSCLE SHOALS 1.3 SSW AL US 20180324 -9999    -9999    0.00     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0004                        MUSCLE SHOALS 1.3 SSW AL US 20180325 -9999    -9999    0.38     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0004                        MUSCLE SHOALS 1.3 SSW AL US 20180326 -9999    -9999    0.01     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0004                        MUSCLE SHOALS 1.3 SSW AL US 20180327 -9999    -9999    0.00     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0004                        MUSCLE SHOALS 1.3 SSW AL US 20180328 -9999    -9999    0.00     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0004                        MUSCLE SHOALS 1.3 SSW AL US 20180329 -9999    -9999    1.16     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0004                        MUSCLE SHOALS 1.3 SSW AL US 20180330 -9999    -9999    0.47     -9999    -9999    -9999    -9999    -9999    
+GHCND:US1ALCT0004                        MUSCLE SHOALS 1.3 SSW AL US 20180331 -9999    -9999    0.00     -9999    -9999    -9999    -9999    -9999    
