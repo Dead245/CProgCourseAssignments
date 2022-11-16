@@ -1,0 +1,4 @@
+﻿  Problem5.cpp
+c:\users\colton\source\repos\homework1\problem5.cpp(40): warning C4018: '>': signed/unsigned mismatch
+c:\users\colton\source\repos\homework1\problem5.cpp(51): warning C4018: '<': signed/unsigned mismatch
+  Homework1.vcxproj -> C:\Users\Colton\source\repos\Homework1\Debug\Homework1.exe
